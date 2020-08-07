@@ -1,0 +1,37 @@
+.message{
+    padding: 10px;
+    margin: 10px;
+    width: fit-content;
+    text-align: left;
+    border-radius: 10px !important;
+}
+
+.message__user{
+    margin-left: auto;
+    color: white;
+    text-align: left !important;
+}
+
+.message__userCard{
+    background-color: #0b81ff !important;
+    color: #fff !important;
+    /* padding: 0; */
+
+}
+
+
+.message__guestCard{
+    background-color: #e5e5eb !important;
+
+}
+
+.message__username{
+    color: rgba(0, 0, 0, .40) !important;
+    font-size: 15px !important;
+    padding-left: 10px !important;
+
+}
+
+.MuiCardContent-root:last-child {
+    padding: 10px 25px !important;
+}
